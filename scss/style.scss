@@ -1,0 +1,13 @@
+@use "reset" as *;
+@use "base" as *;
+
+/* SECTION TOP PAGE */
+.top-page {
+  background: url("../images/bg.jpg");
+  background-size: cover;
+  height: 80vh;
+}
+
+header img {
+  width: 15rem;
+}
